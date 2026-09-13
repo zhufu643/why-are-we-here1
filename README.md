@@ -9,5 +9,6 @@ AI may change how we write code, but it does not make programming meaningless. F
 
 ## References
 Beattie, D. (2020, February 26). The art of code [Video]. YouTube. NDC Conferences.
+
 McLuhan, M. (1964). Understanding media: The extensions of man. McGraw-Hill.
 
